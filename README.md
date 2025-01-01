@@ -5,6 +5,12 @@
 前端技术栈：Vue3    ECharts
 后端技术栈：Node.js   MySQL
 
+cd pulse_dashboard
+npm run dev
+
+node app.js
+node simulateSales.js//模拟数据
+
 数据大屏：
 <img width="1299" alt="截屏2025-01-01 22 17 33" src="https://github.com/user-attachments/assets/8766bc03-4a41-4ba0-adaf-b854ae544112" />
 物流大屏：
